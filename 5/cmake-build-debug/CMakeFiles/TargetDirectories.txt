@@ -1,0 +1,3 @@
+/home/baiocco/CLionProjects/exercicios_de_vetores/lista_de_exercicios-vetores/5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/baiocco/CLionProjects/exercicios_de_vetores/lista_de_exercicios-vetores/5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/baiocco/CLionProjects/exercicios_de_vetores/lista_de_exercicios-vetores/5/cmake-build-debug/CMakeFiles/5.dir
